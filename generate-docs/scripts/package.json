@@ -18,7 +18,7 @@
     "@typescript-eslint/eslint-plugin": "^8.43.0",
     "@typescript-eslint/parser": "^8.43.0",
     "colors": "~1.4.0",
-    "eslint": "^9.35.0",
+    "eslint": "^10.8.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "typescript": "5.9.2"
@@ -27,7 +27,7 @@
     "fs-extra": "11.3.1",
     "inquirer": "^12.9.4",
     "isomorphic-fetch": "^3.0.0",
-    "js-yaml": "4.1.0",
+    "js-yaml": "5.2.3",
     "lodash": "^4.17.21"
   }
 }
